@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # activiti8testvue
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# activiti_vue
+>>>>>>> 98c928e090af97813ff8bfadc543daa410e957fb
